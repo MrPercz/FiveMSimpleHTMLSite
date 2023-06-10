@@ -2,6 +2,6 @@
 Simple HTML Website for a fivem server
 
 
-#Setup
+# Setup
 
 Edit the Index.html and fill your details into it.
